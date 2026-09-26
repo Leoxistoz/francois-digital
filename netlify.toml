@@ -1,0 +1,5 @@
+[[redirects]]
+  from = "/exemples/labaiedudragon/*"
+  to = "https://baiedudragon.netlify.app/:splat"
+  status = 200
+  force = true
